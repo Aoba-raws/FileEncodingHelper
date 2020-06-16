@@ -13,7 +13,7 @@
 
     Copyright = '2020 Copyright Aoba-Raws'
 
-    Description = 'What does this module do?'
+    Description = 'A Powershell module which can detected encoding automatically. And can transcode file to other encoding.'
 
     # Minimum PowerShell version supported by this module (optional, recommended)
     PowerShellVersion = '5.1'
