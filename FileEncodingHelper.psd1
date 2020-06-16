@@ -37,10 +37,10 @@
             Tags = @('encoding', 'transcode')
 
             # What software license is your code being released under? (see https://opensource.org/licenses)
-            LicenseUri = ''
+            LicenseUri = 'https://github.com/Aoba-raws/FileEncodingHelper/blob/master/LICENSE'
 
             # What is the URL to your project's website?
-            ProjectUri = ''
+            ProjectUri = 'https://github.com/Aoba-raws/FileEncodingHelper'
 
             # What is the URI to a custom icon file for your project? (optional)
             IconUri = ''
