@@ -6,7 +6,7 @@
 
     CompanyName = 'Aoba-Raws'
 
-    ModuleVersion = '1.0.1'
+    ModuleVersion = '1.0.2'
 
     # Use the New-Guid command to generate a GUID, and copy/paste into the next line
     GUID = 'e9271847-e28b-41d1-a409-b40c0337f4a2'
@@ -22,7 +22,7 @@
     CompatiblePSEditions = @('Desktop', 'Core')
 
     # Which PowerShell functions are exported from your module? (eg. Get-CoolObject)
-    FunctionsToExport = @('Get-FileEncoding')
+    FunctionsToExport = @('Get-FileEncoding', 'Convert-FileEncoding')
 
     # Which PowerShell aliases are exported from your module? (eg. gco)
     AliasesToExport = @('')
