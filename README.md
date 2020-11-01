@@ -1,6 +1,6 @@
 # FileEncodingHelper
 
-A Powershell module which can detected encoding automatically. And can transcode file to other encoding.
+A Powershell module can detected encoding automatically. And can transcode file to other encoding.
 It is powered by [UTF-unknown](https://github.com/CharsetDetector/UTF-unknown). Based on [Mozilla Universal Charset Detector](https://mxr.mozilla.org/mozilla/source/extensions/universalchardet/).
 
 ## Usages
